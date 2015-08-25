@@ -1,0 +1,16 @@
+{
+	"name":"imarcom/visitor",
+	"description":"",
+	"require":{
+		"torann/geoip": "0.2.*",
+		"illuminate/support":"~5.0"
+	},
+	"autoload": {
+		"files":[
+			"src/Imarcom/Visitor/functions.php"
+		],
+		"psr-0":{
+			"Imarcom\\Visitor":"src/"
+		}
+    }
+}
