@@ -1,5 +1,5 @@
 {
-	"name":"imarcom/visitor",
+	"name":"satvheck/laravel-visitor",
 	"description":"",
 	"require":{
 		"torann/geoip": "0.2.*",
